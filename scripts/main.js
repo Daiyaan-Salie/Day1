@@ -4,11 +4,11 @@ function myFunction() {
 
     if (confirm("Please press a button!")) {
 
-        txt = "You pressed OK!"
+        txt = "That's a Yes!"
 
     } else {
 
-        txt = "You pressed Cancel!"
+        txt = "That's a pity"
 
     }
 
