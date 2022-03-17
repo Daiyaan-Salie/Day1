@@ -13,6 +13,7 @@ h1 {
 
 /* paragraph (p) and list (li) styles */
 
+
 p,
 li {
     font-size: 15px;
@@ -25,7 +26,6 @@ html {
 }
 
 body {
-    text-align: center;
     width: 600px;   
     margin: 0 auto;
     background-color: #4EC4CE;
@@ -39,6 +39,7 @@ h1 {
     color: #BF1111;
     text-shadow: 3px 3px 1px white;
 }
+
 
 img {
     display: block;
